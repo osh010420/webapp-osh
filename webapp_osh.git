@@ -3,5 +3,5 @@ git init
 git add README.md
 git commit -m "first commit"
 git branch -M main
-git remote add origin https://github.com/webapp-osh/webapp_osh.git
+git remote add origin https://github.com/osh010420/webapp_osh.git
 git push -u origin main
